@@ -13,13 +13,13 @@ and, at least for android, open them in a web browser.
 # Structure 
 
 The source files are split up into folders:
--pages:
+- pages:
 Includes other pages, besides homepage that the app uses
--models:
+- models:
 Basically includes the datatypes borrowed from the tutorial
--assets:
+- assets:
 widgets and classes that are used
--services:
+- services:
 handling the different API sevices, in this case just newsAPI
 
 # To be improved
